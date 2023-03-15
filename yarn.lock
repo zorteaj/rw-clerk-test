@@ -1998,17 +1998,17 @@ __metadata:
   linkType: hard
 
 "@clerk/clerk-react@npm:^4":
-  version: 4.12.4
-  resolution: "@clerk/clerk-react@npm:4.12.4"
+  version: 4.12.6
+  resolution: "@clerk/clerk-react@npm:4.12.6"
   dependencies:
-    "@clerk/shared": ^0.13.1
-    "@clerk/types": ^3.30.1
+    "@clerk/shared": ^0.13.3
+    "@clerk/types": ^3.31.0
     swr: 1.3.0
     tslib: 2.4.1
   peerDependencies:
     react: ">=16"
     react-dom: ">=16"
-  checksum: 871d81dfd5605290a846a5257d839580a92eecdaf8dec2ff1b79f01e142efae69103faa45e3daeb60bc7be78f31dca849e67475839ffae6d2c051f79ae51eaca
+  checksum: 9796db88f8ed4d40031e45cd024a5e160faed18ab2c9ca2604c6f82aa6100c3b3de583c8b30da6eaae9a0816962514f0abf280fd820bb9e1d769b9799825af09
   languageName: node
   linkType: hard
 
@@ -2029,22 +2029,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@clerk/shared@npm:^0.13.1":
-  version: 0.13.1
-  resolution: "@clerk/shared@npm:0.13.1"
+"@clerk/shared@npm:^0.13.3":
+  version: 0.13.3
+  resolution: "@clerk/shared@npm:0.13.3"
   peerDependencies:
     react: ">=16"
     react-dom: ">=16"
-  checksum: df17c53604c4716c36823b2d4283c72e2d1dee8ac0f1db431c6a55a1d0315f984e5f3e9a057d634f51169f402824dd7e32947107eab879b584442becd39cda95
+  checksum: e11d111eee88d15d6214a3c46da8f484df60eae8240ff3cb53a105c198c32dcd13d7e2cd9592a9fc53500516e5a962094d2f3210101f579d6a6d9b369e2f8f14
   languageName: node
   linkType: hard
 
-"@clerk/types@npm:^3.29.0, @clerk/types@npm:^3.30.1":
-  version: 3.30.1
-  resolution: "@clerk/types@npm:3.30.1"
+"@clerk/types@npm:^3.29.0, @clerk/types@npm:^3.31.0":
+  version: 3.31.0
+  resolution: "@clerk/types@npm:3.31.0"
   dependencies:
     csstype: 3.1.1
-  checksum: 9049e7053e82068c76eff384b76097fc63700885c06872b2a91014204bab0637b259271a53342114a31d81d9122795a2f20c7a99eb7d1a54fc9fa1c4e556330e
+  checksum: 69cc7d20916e473a1204be8b366543262625404bdc1f61617c012573edc5e373aa2c99e803b77075b1780cba12a5c51468fa3347e111f25ab7a66998f413feb2
   languageName: node
   linkType: hard
 
@@ -6555,12 +6555,12 @@ __metadata:
   linkType: hard
 
 "@types/jest@npm:*":
-  version: 29.4.1
-  resolution: "@types/jest@npm:29.4.1"
+  version: 29.4.2
+  resolution: "@types/jest@npm:29.4.2"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: 67b82b17d2d2b31964c43238075d1e1d534792b758e7fb7f34c7daf4383160208ef21dd6f05f64debd7637b5eca34f2855b357709cbc0027be75e4b8996ae605
+  checksum: 84217f3a5a763b8fd8663a382c453fd75043c64e724b285735056855454776e8fbc7440e738e7d3c2d57da17a917a81cf2d1be08bdc81f9b1fbd4ba23cf806d5
   languageName: node
   linkType: hard
 
@@ -11783,9 +11783,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.284":
-  version: 1.4.328
-  resolution: "electron-to-chromium@npm:1.4.328"
-  checksum: 700e521c65e6fab986a741d4cb49672d2a71ca9fd8215066e7f1da54b225e030fc7034b12197aac35391bde0a33659b01a6be5ab712ce5f7458686544695af24
+  version: 1.4.330
+  resolution: "electron-to-chromium@npm:1.4.330"
+  checksum: ef6865d147834454063e223c38134daf92444a9d3c604924039944d7ae55da3b66a93aa4852903991c4e3851018cc9493b3b3369e1a98e8257927089f3d44714
   languageName: node
   linkType: hard
 
